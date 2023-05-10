@@ -11,9 +11,12 @@ const props = defineProps({
   url: String,
 })
 
-function link_to(url: string) {
-  window.open(url, '_blank')
+function link_to(url: string | undefined) {
+  if (url) {
+    window.open(url, '_blank');
+  }
 }
+
 
 </script>
 
