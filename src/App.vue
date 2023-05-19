@@ -5,7 +5,7 @@ import LinkButton from './components/LinkButton.vue'
 const link_data = [
    { title:'個人網站', url:'https://nulong.me'},
   { title:'好保 - 投資型保單整合平台', url:'https://haobao.nulong.me'},
-  { title:'好保介紹投影片', url:'https://haobao.nulong.me'},
+  { title:'好保介紹投影片', url:'https://docs.google.com/presentation/d/1PrH4r_pKdyZetbc1M7oalVx56dkJ1Lcy7hgKbxgq6yA/edit?usp=sharing'},
   { title:'布林科技', url:'https://bullinv.tech'},
   { title:'外匯策略管理後台', url:'https://fx.bullinv.tech'},
   { title:'台主記錄器', url:'https://claw.nulong.me'},
