@@ -10,6 +10,7 @@ const link_data = [
   { title:'外匯策略管理後台', url:'https://fx.bullinv.tech'},
   { title:'台主記錄器', url:'https://claw.nulong.me'},
   { title:'演算法實作', url:'https://algohw.nulong.me'},
+  { title:'資訊安全報告',url:'https://docs.google.com/presentation/d/1ZT_rJsx_MY7aAh1CbTyb_rijOhRLJXgyOdsfAqHTCB4/edit?usp=sharing'}
   // { title:'國家與市場 - 主持人投影片', url:'https://docs.google.com/presentation/d/103EdDxqWLoLa2F6ocIBfpbboU1zC9fEnAT3-yeF-Mwc/edit?usp=sharing'}
 ]
 
