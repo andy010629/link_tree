@@ -8,11 +8,13 @@ const link_data = [
   { title:'好保介紹投影片', url:'https://docs.google.com/presentation/d/1PrH4r_pKdyZetbc1M7oalVx56dkJ1Lcy7hgKbxgq6yA/edit?usp=sharing'},
   { title:'布林科技', url:'https://bullinv.tech'},
   { title:'外匯策略管理後台', url:'https://fx.bullinv.tech'},
-  { title:'台主記錄器', url:'https://claw.nulong.me'},
+  // { title:'台主記錄器', url:'https://claw.nulong.me'},
   { title:'演算法實作', url:'https://algohw.nulong.me'},
   { title:'資訊安全報告',url:'https://docs.google.com/presentation/d/1ZT_rJsx_MY7aAh1CbTyb_rijOhRLJXgyOdsfAqHTCB4/edit?usp=sharing'},
-  { title:'CPE題目報告',url:'https://docs.google.com/presentation/d/1aqgiSEG9RRv5k29lRxyjP3roBLaLa3brzXYTzVBAThI/edit?usp=sharing'}
+  // { title:'CPE題目報告',url:'https://docs.google.com/presentation/d/1aqgiSEG9RRv5k29lRxyjP3roBLaLa3brzXYTzVBAThI/edit?usp=sharing'}
   // { title:'國家與市場 - 主持人投影片', url:'https://docs.google.com/presentation/d/103EdDxqWLoLa2F6ocIBfpbboU1zC9fEnAT3-yeF-Mwc/edit?usp=sharing'}
+  , { title:'亞太投顧企劃',url:'https://hackmd.io/qNUcRMMESl-3AEOdPKtrzA'}
+
 ]
 
 </script>
