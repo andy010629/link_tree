@@ -14,7 +14,7 @@ const link_data = [
   // { title:'CPE題目報告',url:'https://docs.google.com/presentation/d/1aqgiSEG9RRv5k29lRxyjP3roBLaLa3brzXYTzVBAThI/edit?usp=sharing'}
   // { title:'國家與市場 - 主持人投影片', url:'https://docs.google.com/presentation/d/103EdDxqWLoLa2F6ocIBfpbboU1zC9fEnAT3-yeF-Mwc/edit?usp=sharing'}
   , { title:'亞太投顧企劃',url:'https://hackmd.io/qNUcRMMESl-3AEOdPKtrzA'}
-
+  , { title:'2023銘傳APCS夏令營',url:'https://docs.google.com/presentation/d/1cSRUGbOiRrtiRK8Z2CkVISHStgzdEokm5sEb8Vk6SY4/edit?usp=sharing'}
 ]
 
 </script>
